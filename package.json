@@ -2,12 +2,16 @@
   "name": "atom-burnt-orange-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A syntax theme for Atom inspired by the University of Texas colors",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "burnt orange",
+    "burnt",
+    "orange",
+    "texas"
   ],
-  "repository": "https://github.com/atom/atom-burnt-orange-syntax",
+  "repository": "https://github.com/scottenriquez/atom-burnt-orange-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -1,5 +1,5 @@
-# atom-burnt-orange-syntax theme
+# Atom Burnt Orange Syntax Theme
 
-A short description of your theme.
+A burnt orange theme for Atom created by a University of Texas alumnus. Feel free to submit a pull request!
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Screenshot coming soon...
