@@ -1,7 +1,7 @@
 {
   "name": "atom-burnt-orange-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A syntax theme for Atom inspired by the University of Texas colors",
   "keywords": [
     "burnt orange",
